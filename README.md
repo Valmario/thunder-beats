@@ -22,7 +22,7 @@ Thunder Beats é um projeto de uma bateria virtual que permite aos usuários rep
 Clone este repositório em sua máquina local:
 
 ```
-git clone https://github.com/Valmario/thunder-beats
+git clone https://github.com/Valmario/thunder-beats.git
 ```
 
 Abra o arquivo `index.html` em seu navegador.
@@ -30,3 +30,7 @@ Abra o arquivo `index.html` em seu navegador.
 <h2>Contribuição</h2>
 
 Contribuições são bem-vindas! Se você deseja melhorar o projeto, adicionar novos recursos ou corrigir bugs, fique à vontade para abrir uma solicitação de pull.
+
+<h2>Deploy</h2>
+
+thunder-beats.vercel.app
