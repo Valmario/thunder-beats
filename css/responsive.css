@@ -16,7 +16,7 @@
 /* 411 pixels */
 @media (max-width: 411px) {
   body {
-    background-size: contain;
+    background-size: cover;
   }
 
   h1 {
