@@ -9,7 +9,7 @@
 body {
   align-items: center;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 100%),
-    url('/images/kit.jpg');
+    url('/thunder-beats/images/kit.jpg');
   background-size: cover;
   display: flex;
   justify-content: center;

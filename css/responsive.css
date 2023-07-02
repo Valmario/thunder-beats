@@ -1,0 +1,38 @@
+/* 768 pixels */
+@media screen and (min-width: 768px) {
+  .teclado {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 20px;
+  }
+
+  .tecla {
+    height: 150px;
+    width: 150px;
+    font-size: 2em;
+  }
+}
+
+/* 411 pixels */
+@media (max-width: 411px) {
+  body {
+    background-size: contain;
+  }
+
+  h1 {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+  .teclado {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 5px;
+  }
+
+  .tecla {
+    height: 80px;
+    font-size: 1.25em;
+    line-height: 80px;
+    width: 80px;
+  }
+}
