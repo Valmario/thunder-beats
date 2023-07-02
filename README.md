@@ -33,4 +33,4 @@ Contribuições são bem-vindas! Se você deseja melhorar o projeto, adicionar n
 
 <h2>Deploy</h2>
 
-thunder-beats.vercel.app
+https://thunder-beats.vercel.app
